@@ -47,6 +47,15 @@ p {
   padding: 8px;
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding: 5px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 /* mobile screen */
 @media only screen and (max-width: 375px) {
   body {
